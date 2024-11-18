@@ -1,1 +1,1 @@
-# Flatmates-Bill
+# Flat mates Bill Desktop App
